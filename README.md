@@ -1,6 +1,6 @@
 # Beaconstac Indoor Navigation SDK for Android
 
-You will need an API key for this SDK service to work. Please email dan.egan@beaconstac.com to get an API key.
+You will need an API key for this SDK service to work. Please email ravi@beaconstac.com to get an API key.
 
 ## Integration with your Application project in Android Studio
 
